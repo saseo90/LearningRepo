@@ -1,0 +1,12 @@
+리그 경기 결과 
+[GroupInfo [groupName=A조, teamNo=14, matchNo=3, winNo=1, loseNo=2, rank=0, flag=false], GroupInfo [groupName=A조, teamNo=4, matchNo=3, winNo=2, loseNo=1, rank=1, flag=true], GroupInfo [groupName=A조, teamNo=8, matchNo=3, winNo=2, loseNo=1, rank=2, flag=true], GroupInfo [groupName=A조, teamNo=5, matchNo=3, winNo=1, loseNo=2, rank=0, flag=false], GroupInfo [groupName=B조, teamNo=7, matchNo=3, winNo=3, loseNo=0, rank=1, flag=true], GroupInfo [groupName=B조, teamNo=2, matchNo=3, winNo=1, loseNo=2, rank=2, flag=true], GroupInfo [groupName=B조, teamNo=9, matchNo=3, winNo=1, loseNo=2, rank=0, flag=false], GroupInfo [groupName=B조, teamNo=1, matchNo=3, winNo=1, loseNo=2, rank=0, flag=false], GroupInfo [groupName=C조, teamNo=16, matchNo=3, winNo=2, loseNo=1, rank=1, flag=true], GroupInfo [groupName=C조, teamNo=6, matchNo=3, winNo=1, loseNo=2, rank=0, flag=false], GroupInfo [groupName=C조, teamNo=3, matchNo=3, winNo=2, loseNo=1, rank=2, flag=true], GroupInfo [groupName=C조, teamNo=11, matchNo=3, winNo=1, loseNo=2, rank=0, flag=false], GroupInfo [groupName=D조, teamNo=15, matchNo=3, winNo=3, loseNo=0, rank=1, flag=true], GroupInfo [groupName=D조, teamNo=12, matchNo=3, winNo=0, loseNo=3, rank=0, flag=false], GroupInfo [groupName=D조, teamNo=10, matchNo=3, winNo=1, loseNo=2, rank=0, flag=false], GroupInfo [groupName=D조, teamNo=13, matchNo=3, winNo=2, loseNo=1, rank=2, flag=true]]
+리그 통과팀 정보 리스트 
+[팀정보 
+[팀번호=4, 소속국가이름=스웨덴, 조이름=A조], 팀정보 
+[팀번호=8, 소속국가이름=덴마크, 조이름=A조], 팀정보 
+[팀번호=7, 소속국가이름=대한민국, 조이름=B조], 팀정보 
+[팀번호=2, 소속국가이름=스페인, 조이름=B조], 팀정보 
+[팀번호=16, 소속국가이름=멕시코, 조이름=C조], 팀정보 
+[팀번호=3, 소속국가이름=미국, 조이름=C조], 팀정보 
+[팀번호=15, 소속국가이름=세네갈, 조이름=D조], 팀정보 
+[팀번호=13, 소속국가이름=터키, 조이름=D조]]
