@@ -11,7 +11,7 @@ import java.util.List;
  * Info : 리그 조별 정보 리스트
  *  
  * </pre>
- * @author seo-HG
+ * @author LEE SEONG-HYUN
  *
  */
 public class GroupInfoListUtil {

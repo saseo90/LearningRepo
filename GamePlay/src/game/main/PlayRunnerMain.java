@@ -24,7 +24,7 @@ import game.vo.TeamInfoListUtil;
  *    
  *  
  * </pre>
- * @author seo-HG
+ * @author LEE SEONG-HYUN
  *
  */
 public class PlayRunnerMain {
@@ -37,6 +37,7 @@ public class PlayRunnerMain {
         LeagueService leagueUtil = new LeagueService();//리그 실행
         System.out.println("리그 경기 결과 \n"+groupInfoListUtil.getGroupInfoALL());
         System.out.println("리그 통과팀 정보 리스트 \n"+leagueUtil.getPassTeamInfoList());
+        leagueUtil.getPassTeamInfoList();
     }
     
 }

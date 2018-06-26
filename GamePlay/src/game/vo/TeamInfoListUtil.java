@@ -11,7 +11,7 @@ import java.util.List;
  * Info : 참가국 리스트 객체 를 static 하게 생성.
  *  
  * </pre>
- * @author seo-HG
+ * @author LEE SEONG-HYUN
  *
  */
 public class TeamInfoListUtil {

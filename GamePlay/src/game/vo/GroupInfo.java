@@ -7,7 +7,7 @@ package game.vo;
  * Info : 리그 조별 정보 객체 클래스 , 특정 팀의 리그 경기결과
  *  
  * </pre>
- * @author seo-HG
+ * @author LEE SEONG-HYUN
  *
  */
 public class GroupInfo {

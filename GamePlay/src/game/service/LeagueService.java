@@ -13,7 +13,7 @@ import game.vo.TeamInfo;
  * Info : 리그 대진표 정보 및 리그 경기실행
  *  
  * </pre>
- * @author seo-HG
+ * @author LEE SEONG-HYUN
  *
  */
 public class LeagueService {

@@ -6,7 +6,7 @@ package game.vo;
  * Info : 팀의 정보 객체 클래스
  *  
  * </pre>
- * @author seo-HG
+ * @author LEE SEONG-HYUN
  *
  */
 public class TeamInfo {
