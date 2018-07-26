@@ -20,7 +20,7 @@ import game.service.TimesTableService;
  *    콘솔에 출력한다.
  *  
  * </pre>
- * @author seo-HG
+ * @author  LEE SEONG-HYUN
  *
  */
 public class PlayRunnerMain {
