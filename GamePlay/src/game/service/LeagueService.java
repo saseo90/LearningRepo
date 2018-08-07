@@ -31,7 +31,7 @@ public class LeagueService {
      * @return List<TeamInfo> passTeamInfoList
      */
     public List<TeamInfo> getPassTeamInfoList() {
-        return passTeamInfoList;        
+        return passTeamInfoList;
     }
     
     /** 리그 전체 실행 */
@@ -102,7 +102,7 @@ public class LeagueService {
         int firstWinNo=-1;//1등 승리수
         int secondTeamNo=-1;//2등 
         int secondWinNo=-1;//2등 승리수
-        //System.out.println("사이즈 "+teamInfoList.size());
+//        System.out.println("사이즈 "+teamInfoList.size());
         for (GroupInfo teamA : teamInfoList) {//순위 계산
             int tempTeamNo= teamA.getTeamNo();
             int tempWinNo= teamA.getWinNo();
